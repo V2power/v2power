@@ -1,6 +1,6 @@
 ## Bem-vindo/a ao meu GitHub!
 
-- 💻 Sou estagiário na Néctar Consulting, trabalhando principalmente com PHP, Javascript, HTML e Sass
+- 💻 Sou estagiário na Néctar Consulting, trabalhando principalmente com PHP, SQL, Javascript, HTML e Sass
 - 🌱 Estou estudando desenvolvimento web com React, Typescript e Tailwind.
 - 🕹️ Quero aprender mais sobre C++ para ajudar no desenvolvimento de emuladores open-source.
 
@@ -14,6 +14,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
   <h3>Linguagens que estou estudando.</h3>
 
