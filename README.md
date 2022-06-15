@@ -1,6 +1,6 @@
 ## Bem-vindo/a ao meu GitHub!
 
-- 💻 Sou estagiário na Néctar Consulting, trabalhando principalmente com PHP, SQL, Javascript, HTML e Sass
+- 💻 Sou Customer Support Specialist na Equativ, trabalhando principalmente com HTML, JS e SQL.
 - 🌱 Estou estudando desenvolvimento web com React, Typescript e Tailwind.
 - 🕹️ Quero aprender mais sobre C++ para ajudar no desenvolvimento de emuladores open-source.
 
