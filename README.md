@@ -1,8 +1,9 @@
 ## Bem-vindo/a ao meu GitHub!
 
-- 💻 Sou estudante de ADS aprendendo bastante sobre Java, JS e SQL.
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC.
+- 💻 Trabalho como Infrastructure Specialist na IBM, dando suporte principalmente para os mainframe.
+- 🕹️ Pretendo me tornar um profissional mais completo na área de DevOps e Cloud.
 - 🌱 Estou estudando desenvolvimento web com React, Typescript e Tailwind.
-- 🕹️ Quero aprender mais sobre C++ para ajudar no desenvolvimento de emuladores open-source.
 
 <div tyle="display: inline_block">
   <h3>Linguagens que utilizo.</h3>
@@ -21,7 +22,8 @@
   <div><br>
     <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   </div>
 </div><br>
 
