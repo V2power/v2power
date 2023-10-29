@@ -1,7 +1,7 @@
 ## Bem-vindo/a ao meu GitHub!
 
 - 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC.
-- 💻 Trabalho como Infrastructure Specialist na IBM, dando suporte principalmente para os mainframe.
+- 💻 Trabalho como Infrastructure Specialist na IBM, dando suporte principalmente para os mainframes IBM.
 - 🕹️ Pretendo me tornar um profissional mais completo na área de DevOps e Cloud.
 - 🌱 Estou estudando desenvolvimento web com React, Typescript e Tailwind.
 
