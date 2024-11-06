@@ -3,7 +3,7 @@
 - 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC.
 - 💻 Trabalho como Infrastructure Specialist na IBM, dando suporte principalmente para os mainframes IBM.
 - 🕹️ Pretendo me tornar um profissional mais completo na área de DevOps e Cloud.
-- 🌱 Estou estudando desenvolvimento web com React, Typescript e Tailwind.
+- 🌱 Atualmente estudando Docker, Kubernetes, Terraform e Ansible.
 
 <div tyle="display: inline_block">
   <h3>Linguagens que utilizo.</h3>
@@ -17,13 +17,13 @@
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
-  <h3>Linguagens que estou estudando.</h3>
+  <h3>Coisas que estou estudando.</h3>
 
   <div><br>
-    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+    <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+    <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
+    <img align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg">
   </div>
 </div><br>
 
