@@ -6,7 +6,7 @@
 - 🌱 Atualmente estudando Docker, Kubernetes, Terraform e Ansible.
 
 <div tyle="display: inline_block">
-  <h3>Linguagens que utilizo.</h3>
+  <h3>Linguagens que utilizo:</h3>
 
   <div><br>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -17,7 +17,7 @@
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
-  <h3>Coisas que estou estudando.</h3>
+  <h3>Coisas que estou estudando:</h3>
 
   <div><br>
     <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
